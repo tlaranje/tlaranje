@@ -18,7 +18,7 @@ I'm a software engineer studying at **42 Porto**, focused on systems programming
 
 **Languages**  
 <div align="center">
-
+![C](C.png)   
 ![C](https://img.shields.io/badge/-00599C?style=flat&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/%23-68217A?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -58,6 +58,5 @@ I'm a software engineer studying at **42 Porto**, focused on systems programming
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-pinho-53766b344/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagopinho4023@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teuusuario)
 
 </div>
