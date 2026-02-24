@@ -11,13 +11,6 @@
 ## 🚀 About Me
 
 I'm a software engineer studying at **42 Porto**, focused on systems programming with C and Python. I build low-level applications and work with Linux internals, exploring how software interacts with the operating system.
-```c
-while (learning) {
-    write_code();
-    debug();
-    optimize();
-}
-```
 
 ---
 
