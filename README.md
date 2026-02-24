@@ -18,7 +18,8 @@ I'm a software engineer studying at **42 Porto**, focused on systems programming
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=ctes ago&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assembly&logoColor=white)
