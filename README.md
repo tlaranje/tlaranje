@@ -20,7 +20,8 @@ I'm a software engineer studying at **42 Porto**, focused on systems programming
 <div align="center">
   
 ![C](C.png)
-  
+![C#](c-sharp.png)
+
 ![C](https://img.shields.io/badge/-00599C?style=flat&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/%23-68217A?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
