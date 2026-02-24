@@ -19,7 +19,7 @@ I'm a software engineer studying at **42 Porto**, focused on systems programming
 **Languages**  
 <div align="center">
   
-![C](C.png)
+![C](.png)
 ![C#](c-sharp.png)
 
 ![C](https://img.shields.io/badge/-00599C?style=flat&logo=c&logoColor=white)
