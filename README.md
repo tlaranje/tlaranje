@@ -18,8 +18,8 @@ I'm a software engineer studying at **42 Porto**, focused on systems programming
 
 **Languages**
 <div align="center">
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" height="40">
-<img src="https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/-00599C?style=flat&logo=c&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/%23-68217A?style=flat&logo=c&logoColor=white" height="40">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="40">
 <img src="https://img.shields.io/badge/MySQL-FF6F00?style=flat&logo=mysql&logoColor=white" height="40">
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" height="40">
