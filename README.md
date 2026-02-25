@@ -16,11 +16,8 @@ I'm a software engineer studying at **42 Porto**, focused on systems programming
 
 ## 🛠️ Tech Stack
 
-**Languages**  
+**Languages**
 <div align="center">
-  
-![C](C.png)
-![C#](c-sharp.png)
 
 ![C](https://img.shields.io/badge/-00599C?style=flat&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/%23-68217A?style=flat&logo=c&logoColor=white)
@@ -33,7 +30,7 @@ I'm a software engineer studying at **42 Porto**, focused on systems programming
 
 </div>
 
-**Systems & Tools**  
+**Systems & Tools**
 <div align="center">
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
