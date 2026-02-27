@@ -18,15 +18,14 @@ I'm a software engineer studying at **42 Porto**, focused on systems programming
 
 **Languages**
 <div align="center">
-
-<img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white" height="60">
-<img src="https://img.shields.io/badge/%23-68217A?style=for-the-badge&logo=c&logoColor=white" height="60">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="60">
-<img src="https://img.shields.io/badge/MySQL-FF6F00?style=for-the-badge&logo=mysql&logoColor=white" height="60">
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="60">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="60">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="60">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="60">
+<img src="https://img.shields.io/badge/-00599C?style=flat&logo=c&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/%23-68217A?style=flat&logo=c&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/MySQL-FF6F00?style=flat&logo=mysql&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" height="40">
 
 </div>
 
