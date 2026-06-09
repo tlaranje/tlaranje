@@ -2,7 +2,7 @@
 
 # 👨‍💻 Welcome to my GitHub
 
-### Software Engineer | 42 Porto
+### 42 Porto
 
 </div>
 
